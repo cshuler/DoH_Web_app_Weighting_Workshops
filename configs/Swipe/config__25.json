@@ -1,0 +1,27 @@
+{
+  "style": "vertical",
+  "layerState": {
+    "CPs_Tracts_Final_Prioirity_6062": {
+      "selected": true
+    },
+    "Tracts_Final_Prioirity_3643": {
+      "selected": true
+    },
+    "CPs_Tracts_Final_Prioirity_Weighted_2135": {
+      "selected": false
+    },
+    "Tracts_Final_Prioirity_Weighted_8075": {
+      "selected": false
+    }
+  },
+  "layer": "CPs_Tracts_Final_Prioirity_6062",
+  "isZoom": false,
+  "handleColor": "#dadada",
+  "layerMode": "mult",
+  "defaultLayers": [
+    "CPs_Tracts_Final_Prioirity_6062",
+    "Tracts_Final_Prioirity_3643"
+  ],
+  "invertPlacement": false,
+  "isHidePanel": false
+}

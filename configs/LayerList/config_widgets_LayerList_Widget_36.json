@@ -1,0 +1,30 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "CPs_Tracts_Final_Prioirity_6062": {
+      "display": true
+    },
+    "Tracts_Final_Prioirity_3643": {
+      "display": true
+    },
+    "CPs_Tracts_Final_Prioirity_Weighted_2135": {
+      "display": true
+    },
+    "Tracts_Final_Prioirity_Weighted_8075": {
+      "display": true
+    }
+  }
+}
